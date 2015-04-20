@@ -10,10 +10,10 @@ residues.
 
 #####Usage
 
-$ perl CenterOfMass.pl fileName.pdb > OutPut.txt
+    $ perl CenterOfMass.pl fileName.pdb > OutPut.txt
 
 or
 
-$ chmod +x CenterOfMass.pl 
+    $ chmod +x CenterOfMass.pl 
 
-$ ./CenterOfMass.pl fileName.pdb > OutPut.txt
+    $ ./CenterOfMass.pl fileName.pdb > OutPut.txt
